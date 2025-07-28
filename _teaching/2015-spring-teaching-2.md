@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Swinburne University of Technology"
-date: 2024 S2
+date: 2024-07-01
 location: "Melbourne, Australia"
 ---
 
