@@ -1,5 +1,5 @@
 ---
-title: "COS30049"
+title: "COS30049 Computing Technology Innovation Project"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
