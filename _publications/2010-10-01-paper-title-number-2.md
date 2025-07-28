@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Leakage-Resilient and Carbon-Neutral Aggregation Featuring the Federated AI-enabled Critical Infrastructure"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'AI-enabled critical infrastructures (ACIs) integrate artificial intelligence (AI) technologies into various essential systems and services that are vital to the functioning of society, offering significant implications for efficiency, security and resilience. While adopting decentralized AI approaches (such as federated learning technology) in ACIs is plausible, private and sensitive data are still susceptible to data reconstruction attacks through gradient optimization. In this work, we propose Compressed Differentially Private Aggregation (CDPA), a leakage-resilient, communication-efficient, and carbon-neutral approach for ACI networks. Specifically, CDPA has introduced a novel random bit-flipping mechanism as its primary innovation. This mechanism first converts gradients into a specific binary representation and then selectively flips masked bits with a certain probability. The proposed bit-flipping introduces a larger variance to the noise while providing differentially private protection and commendable efforts in energy savings while applying vector quantization techniques within the context of federated learning. The experimental evaluation indicates that CDPA can reduce communication cost by half while preserving model utility. Moreover, we demonstrate that CDPA can effectively defend against state-of-the-art data reconstruction attacks in both computer vision and natural language processing tasks. We highlight existing benchmarks that generate 2.6x to over 100x more carbon emissions than CDPA. We hope that the CDPA developed in this paper can inform the federated AI-enabled critical infrastructure of a more balanced trade-off between utility and privacy, resilience protection, as well as a better carbon offset with less communication overhead.'
+date: 2025-01-30
+venue: 'IEEE Transactions on Dependable and Secure Computing '
+slidesurl: 
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10858592'
+citation: 'Deng, Zehang, Ruoxi Sun, Minhui Xue, Sheng Wen, Seyit Camtepe, Surya Nepal, and Yang Xiang. "Leakage-Resilient and Carbon-Neutral Aggregation Featuring the Federated AI-Enabled Critical Infrastructure," in IEEE Transactions on Dependable and Secure Computing, vol. 22, no. 4, pp. 3661-3675, July-Aug. 2025, doi: 10.1109/TDSC.2025.3532957.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
