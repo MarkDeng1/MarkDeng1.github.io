@@ -2,7 +2,7 @@
 title: "GRFormer: Grouped Residual Self-Attention for Lightweight Single Image Super-Resolution"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: ''
 date: 2024-08-14
 venue: 'Proceedings of the 32nd ACM International Conference on Multimedia'
