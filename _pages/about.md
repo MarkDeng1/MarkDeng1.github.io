@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an PhD student at Swinburne University of Technology and CSIRO's Data61. 
+I am a PhD student at Swinburne University of Technology and CSIRO's Data61. 
 
 
 My research interests focus on the area of Cybersecurity and AI, which covers trustworthy and responsible AI and adversarial machine learning.
